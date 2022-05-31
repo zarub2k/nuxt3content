@@ -11,7 +11,7 @@ console.log('here: ' + JSON.stringify(articles))
       <div v-for="article in articles" :key="article._path">
         <h2>{{ article.title }}</h2>
         <p>{{ article.description }}</p>
-        <ContentRenderer :value="article" />
+        <!-- <ContentRenderer :value="article" /> -->
       </div>
     </div>
   </section>
