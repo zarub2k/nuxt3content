@@ -1,6 +1,6 @@
 ---
-title: TitleTwo
-description: meta description of the page
+title: Title Two
+description: meta description of the page2
 ---
 
 ## two md
